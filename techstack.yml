@@ -2,7 +2,7 @@ repo_name: BenHerbst/AuMerge
 report_id: 251ec8fb0cbdbf025c2e03ef65acbeba
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:50:08+00:00'
+timestamp: '2024-01-05T08:20:56+00:00'
 requested_by: BenHerbst
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -25,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -34,6 +36,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge/blob/master/build/kotlin/AuMerge10SNAPSHOTjar-classes.txt
   detection_source: build/kotlin/AuMerge10SNAPSHOTjar-classes.txt
   last_updated_by: BenHerbst
   last_updated_on: 2022-03-21 01:41:43.000000000 Z
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -55,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge/blob/master/build.gradle
   detection_source: build.gradle
   last_updated_by: BenHerbst
   last_updated_on: 2022-03-21 01:41:43.000000000 Z
@@ -66,6 +71,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/BenHerbst/AuMerge/blob/master/build/kotlin/AuMerge10SNAPSHOTjar-classes.txt
   detection_source: build/kotlin/AuMerge10SNAPSHOTjar-classes.txt
   last_updated_by: BenHerbst
   last_updated_on: 2022-03-21 01:41:43.000000000 Z
@@ -77,6 +83,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge/blob/master/build.gradle
   detection_source: build.gradle
   last_updated_by: BenHerbst
   last_updated_on: 2022-03-21 01:41:43.000000000 Z
@@ -88,6 +95,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/BenHerbst/AuMerge/blob/master/build.gradle
   detection_source: build.gradle
   last_updated_by: BenHerbst
   last_updated_on: 2022-03-21 01:41:43.000000000 Z
